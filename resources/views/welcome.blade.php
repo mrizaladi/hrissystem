@@ -7,6 +7,6 @@
     <title>HRIS</title>
 </head>
 <body>
-    
+    Ini adalah halaman baru laravel
 </body>
 </html>
